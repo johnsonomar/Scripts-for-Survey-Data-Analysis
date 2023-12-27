@@ -8,4 +8,4 @@ For the purposes of data analysis, we mainly asked interval questions and conver
   2 - Disagree\
   3 - Neutral/Not Applicable\
   4 - Agree\
-  5 - Strongly Agree\
+  5 - Strongly Agree
